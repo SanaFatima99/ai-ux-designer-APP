@@ -1,0 +1,6 @@
+{
+  "name": "AI UX Designer",
+  "description": "Transform simple app ideas into complete product blueprints, design systems, and wireframes powered by Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
